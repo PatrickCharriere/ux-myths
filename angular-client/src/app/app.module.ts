@@ -5,6 +5,7 @@ import { AppComponent } from './app.component';
 import {HttpClientModule} from '@angular/common/http';
 import {RouterModule} from '@angular/router';
 import {MainRoutingModule, routedComponents} from './SharedKernel/main-routing/main-routing.module';
+import {HttpModule} from '@angular/http';
 
 
 @NgModule({
@@ -15,6 +16,7 @@ import {MainRoutingModule, routedComponents} from './SharedKernel/main-routing/m
 	imports: [
 		BrowserModule,
 		HttpClientModule,
+		HttpModule,
 		RouterModule,
 		MainRoutingModule,
 	],

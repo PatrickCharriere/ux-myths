@@ -1,15 +1,18 @@
-import { Component, OnInit } from '@angular/core';
+import {Component, Input, OnInit} from '@angular/core';
+import {UxMyth} from '../../Model/ux-myth';
 
 @Component({
-  selector: 'app-ux-myth',
-  templateUrl: './ux-myth.component.html',
-  styleUrls: ['./ux-myth.component.css']
+	selector: 'app-ux-myth',
+	templateUrl: './ux-myth.component.html',
+	styleUrls: ['./ux-myth.component.css']
 })
 export class UxMythComponent implements OnInit {
 
-  constructor() { }
+	@Input() uxMyth: UxMyth;
 
-  ngOnInit() {
-  }
+	constructor() { }
+
+	ngOnInit() {
+	}
 
 }
