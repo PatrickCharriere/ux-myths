@@ -3,17 +3,20 @@ import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
 import {HttpClientModule} from '@angular/common/http';
+import {RouterModule} from '@angular/router';
+import {MainRoutingModule, routedComponents} from './SharedKernel/main-routing/main-routing.module';
 
-import { CameraViewerComponent } from './camera-viewer/camera-viewer.component';
 
 @NgModule({
 	declarations: [
 		AppComponent,
-		CameraViewerComponent,
+		routedComponents,
 	],
 	imports: [
 		BrowserModule,
 		HttpClientModule,
+		RouterModule,
+		MainRoutingModule,
 	],
 	providers: [],
 	bootstrap: [AppComponent]
