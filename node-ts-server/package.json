@@ -15,7 +15,7 @@
 
 		"prestart": "node dist/startMessage.js",
 		"start": "npm-run-all --parallel security-check start:watch lint:watch test:watch",
-		"start:watch": "tsc --watch & && nodemon dist/index.js",
+		"start:watch": "nodemon dist/index.js",
 
 		"test": "mocha --reporter progress --require ts-node/register '**/*.spec.ts' --exit",
 		"test:watch": "npm-watch test",
