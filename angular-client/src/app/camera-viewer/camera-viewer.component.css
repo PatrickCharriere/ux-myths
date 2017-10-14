@@ -1,0 +1,12 @@
+
+
+div.camera-container {
+	height: 280px;
+	width: 350px;
+	background-color: silver;
+	text-align: center;
+}
+
+img.camera-feedback {
+	max-width: 300px;
+}

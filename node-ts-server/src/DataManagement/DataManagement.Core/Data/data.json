@@ -1,0 +1,212 @@
+[
+	{
+		"number": 34,
+		"title": "Simple = minimal",
+		"body": "",
+		"link": "http://uxmyths.com/post/115783813605/myth-34-simplicity-minimalism"
+	},
+	{
+		"number": 33,
+		"title": "Mobile users are distracted",
+		"body": "",
+		"link": "http://uxmyths.com/post/99302792550/myth-33-mobile-users-are-distracted"
+	},
+	{
+		"number": 32,
+		"title": "Success happens overnight",
+		"body": "",
+		"link": "http://uxmyths.com/post/4956005041/myth-32-success-happens-overnight"
+	},
+	{
+		"number": 31,
+		"title": "UX design is a step in a project",
+		"body": "",
+		"link": "http://uxmyths.com/post/3897350094/myth-31-ux-design-is-a-step-in-a-project"
+	},
+	{
+		"number": 30,
+		"title": "If you are an expert, you don’t need to test your design",
+		"body": "",
+		"link": "http://uxmyths.com/post/3086989914/myth-30-if-you-are-expert-you-dont-need-to-test-your-des"
+	},
+	{
+		"number": 29,
+		"title": "People are rational",
+		"body": "",
+		"link": "http://uxmyths.com/post/2607991907/myth-29-people-are-rational"
+	},
+	{
+		"number": 28,
+		"title": "White space is wasted space",
+		"body": "",
+		"link": "http://uxmyths.com/post/2059998441/myth-28-white-space-is-wasted-space"
+	},
+	{
+		"number": 27,
+		"title": "UX design is about usability",
+		"body": "",
+		"link": "http://uxmyths.com/post/1533970267/myth-27-ux-design-is-about-usability"
+	},
+	{
+		"number": 26,
+		"title": "Usability testing = focus groups",
+		"body": "",
+		"link": "http://uxmyths.com/post/1319999199/myth-26-usability-testing-focus-groups"
+	},
+	{
+		"number": 25,
+		"title": "Aesthetics are not important if you have good usability",
+		"body": "",
+		"link": "http://uxmyths.com/post/1161244116/myth-25-aesthetics-are-not-important-if-you-have-good-us"
+	},
+	{
+		"number": 24,
+		"title": "People always use your product the way you imagined they would",
+		"body": "",
+		"link": "http://uxmyths.com/post/1048425031/myth-24-people-always-use-your-product-the-way-you-imagi"
+	},
+	{
+		"number": 23,
+		"title": "Choices should always be limited to 7+/-2",
+		"body": "",
+		"link": "http://uxmyths.com/post/931925744/myth-23-choices-should-always-be-limited-to-seven"
+	},
+	{
+		"number": 22,
+		"title": "Usability testing is expensive",
+		"body": "",
+		"link": "http://uxmyths.com/post/831431504/myth-22-usability-testing-is-expensive"
+	},
+	{
+		"number": 21,
+		"title": "People can tell you what they want",
+		"body": "",
+		"link": "http://uxmyths.com/post/746610684/myth-21-people-can-tell-you-what-they-want"
+	},
+	{
+		"number": 20,
+		"title": "If it works for Amazon, it will work for you",
+		"body": "",
+		"link": "http://uxmyths.com/post/718217318/myth-if-it-works-for-amazon-it-will-work-for-you"
+	},
+	{
+		"number": 19,
+		"title": "You don't need the content to design a website",
+		"body": "",
+		"link": "http://uxmyths.com/post/718187422/myth-you-dont-need-the-content-to-design-a-website"
+	},
+	{
+		"number": 18,
+		"title": "Flash is evil",
+		"body": "",
+		"link": "http://uxmyths.com/post/717781129/myth-18-flash-is-evil"
+	},
+	{
+		"number": 17,
+		"title": "The homepage is your most important page",
+		"body": "Usability experts, including Jakob Nielsen, have long argued that your homepage is the most valuable real estate of your website. As a result, lots of web designers and developers still spend most of their time on the design of the home page. This, in fact, is no longer the case, as users’ browsing and searching behavior has significantly changed over time. Website statistics convincingly show that on many websites the homepage gets less and less share in pageviews.",
+		"link": "http://uxmyths.com/post/717779908/myth-the-homepage-is-your-most-important-page"
+	},
+	{
+		"number": 16,
+		"title": "Search will solve a website's navigation problems",
+		"body": "On a website, people usually scan for trigger words first and only use the search function when they’re unable to find a good enough navigational link. This holds true for most websites, though people habitually search by default for books, DVDs and CDs, computer games; that is, products whose title or author they know. People are better at recognizing things than recalling them from memory. It’s much easier and faster to click on a link than to enter a search term: you don’t have to spontaneously come up with the proper search expression, or worry about synonyms and spelling.",
+		"link": "http://uxmyths.com/post/717755413/myth-search-will-solve-a-websites-navigation-problems"
+	},
+	{
+		"number": 15,
+		"title": "Users make optimal choices",
+		"body": "In an ideal world, users would scan through your entire page to find the very piece of information they’re looking for, but research shows this is not the case. Usability tests prove that people tend to choose the first somewhat reasonable choice that catches their eyes. That is, once they come across a link whose label refers even a little to what they’ve come for, they’ll click it. This is due to their experience that guessing wrong and hitting the back button is still more efficient than reading a whole page to find an exact match. This behaviour, known as satisficing, is a well-known decision-making strategy in psychology.",
+		"link": "http://uxmyths.com/post/717722982/myth-15-users-make-optimal-choices"
+	},
+	{
+		"number": 14,
+		"title": "You are like your users",
+		"body": "When designing a website, it’s easy to assume that everybody is like you. However, this leads to a strong bias and often ends in an inefficient design. You evidently know a lot about your services and your website; you’re passionate about them. Your users, on the other hand, are likely to not care that much. They have different attitudes and goals, and just want to get things done on your website. To avoid this bias, you need to learn about your users, involve them in the design process, and interact with them.",
+		"link": "http://uxmyths.com/post/715988395/myth-you-are-like-your-users"
+	},
+	{
+		"number": 13,
+		"title": "Icons enhance usability",
+		"body": "Many researchers have shown that icons are hard to memorize and are often highly inefficient. The Microsoft Outlook toolbar is a good example: the former icon-only toolbar had poor usability and changing the icons and their positioning didn’t help much. What did help was the introduction of text labels next to the icons. It immediately fixed the usability issues and people started to use the toolbar. In another study, the team of UIE observed that people remember a button’s position instead of the graphic interpretation of the function. In most projects, icons are very difficult to get right and need a lot of testing. For abstract things, icons rarely work well.",
+		"link": "http://uxmyths.com/post/715009009/myth-icons-enhance-usability"
+	},
+	{
+		"number": 12,
+		"title": "More choices and features result in higher satisfaction",
+		"body": "Having choices is considered a good thing. We are used to choices and we value dearly if we can be in control. However, the more choices a website or web application offers, the harder it is to understand the interface. Studies show that having too many options often leads to decision paralysis and frustration. As a general rule, people only value an abundance of features before they actually start using the given product. After they have started using it, the simpler solution wins with higher satisfaction.",
+		"link": "http://uxmyths.com/post/712569752/myth-more-choices-and-features-result-in-higher-satisfac"
+	},
+	{
+		"number": 11,
+		"title": "You need to redesign your website periodically",
+		"body": "To many, a redesign means revamping the look of a website in the hope that it will increase conversions and attract new customers. In fact, such projects are often counterproductive as user feedbacks on numerous redesigns proved that users hate change, even if the new design is clearly superior to the original. For a redesign (or realign) to be effective, it must stem from the understanding of what does and what doesn’t work on the current website, and how user needs have changed since the last redesign. In most cases, it is sufficient to make minor changes in the user interface. Google, Yahoo, Amazon and a bunch of others follow this strategy with great success: you can hardly see significant changes on their websites though they’re perfecting their design constantly.",
+		"link": "http://uxmyths.com/post/712537920/myth-you-need-to-redesign-your-website-periodically"
+	},
+	{
+		"number": 10,
+		"title": "If your design is good, small details don't matter",
+		"body": "“The details are not the details. They make the design.” said Charles Eames. Fine details, such as an informative error message, a reassuring piece of microcopy, or the orders in which products are shown on a category page, strongly impact the user experience and the bottom line. Small details go a long way. This is what Apple is all about: obsessive attention to details down to the smallest bits.",
+		"link": "http://uxmyths.com/post/712451083/myth-if-your-design-is-good-small-details-dont-matter"
+	},
+	{
+		"number": 9,
+		"title": "Design has to be original",
+		"body": "Many designers would rather attempt reinventing the wheel than to adapt conventional user interface design patterns. It should be considered, however, that such design conventions are well-working because they’ve already been introduced and tested for usability. Since the users know them well, you don’t need any explanation or instruction manual. As users appreciate usability over novelties, standard patterns will eventually benefit your audience. It might occur that a new approach is needed, but you must be 100% positive that your solution is better than the existing pattern.",
+		"link": "http://uxmyths.com/post/712377283/myth-9-design-has-to-be-original"
+	},
+	{
+		"number": 8,
+		"title": "Stock photos improve the users' experience",
+		"body": "Usability tests and eye-tracking studies show that stock photos and other decorative graphic elements rarely add value to a website and more often harm than improve the users’ experience. Such images aren’t related to the topic of the website and don’t hold useful information. Users usually overlook stock images and might even get frustrated by them.",
+		"link": "http://uxmyths.com/post/705397950/myth-ornamental-graphics-improves-the-users-experience"
+	},
+	{
+		"number": 7,
+		"title": "Graphics will make a page element more visible",
+		"body": "A common pitfall in web design is to emphasize an important piece of content with a graphic-heavy and flashy presentation. This approach, however, often makes it less visible. When people look for something specific on a website, they search for text and links where they assume the information would be found. Very often people mistake visual, colorful page elements for ads and avoid them altogether. It doesn’t mean though that you can’t use any emphasis. Contrast does work well and is essential for prioritizing content and thus creating effective web design.",
+		"link": "http://uxmyths.com/post/702072231/myth-graphics-will-make-a-page-element-more-visible"
+	},
+	{
+		"number": 6,
+		"title": "Accessible sites are ugly",
+		"body": "Accessibility on the web means making your content available to users with different skills and devices. A key requirement of web accessibility is to separate content (HTML) from visual appearance (CSS) in order to allow those preferring - or requiring - to use their own specific style sheet to access the content. Since the visual appearance of a site is defined by style sheets, accessibility in itself should not have any impact on visual design.",
+		"link": "http://uxmyths.com/post/702066202/myth-6-accessible-sites-are-ugly"
+	},
+	{
+		"number": 5,
+		"title": "Accessibility is expensive and difficult",
+		"body": "To make your website accessible, you don’t need to add extra functionality or to duplicate any content. The key is simply to assess the requirements of those with different skills and limited devices when designing the user interface and your content. To build from scratch a website that’s accessible therefore, costs virtually the same as to develop one that isn’t. Correcting an already inaccessible site, however, might need extra effort but is always beneficial on the long run since accessible sites are easier and cheaper to maintain.",
+		"link": "http://uxmyths.com/post/654091803/myth-5-accessibility-is-expensive-and-difficult"
+	},
+	{
+		"number": 4,
+		"title": "Design is about making a website look good",
+		"body": "Many people regard web design as decoration; the art of making a website look good. However, design is more about how something works than how it looks. Design is about both form and function. In contrast with art, good design is not only visually and emotionally appealing but is made for use. The goal of design is to efficiently solve problems. Design is based on the understanding of how users see the world, how they think and behave. And the toolset of the designer is broader than just colors and font-styles, as it also includes user-research, prototyping, usability testing, and more.",
+		"link": "http://uxmyths.com/post/654070104/myth-design-is-about-making-a-website-look-good"
+	},
+	{
+		"number": 3,
+		"title": "People don't scroll",
+		"body": "Although people weren’t used to scrolling in the mid-nineties, nowadays it’s absolutely natural to scroll. For a continuous and lengthy content, like an article or a tutorial, scrolling provides even better usability than slicing up the text to several separate screens or pages. You don’t have to squeeze everything into the top of your homepage or above the fold. To make sure that people will scroll, you need to follow certain design principles and provide content that keeps your visitors interested. Also keep in mind that content above the fold will still get the most attention and is also crucial for users in deciding whether your page is worth reading at all.",
+		"link": "http://uxmyths.com/post/654047943/myth-people-dont-scroll"
+	},
+	{
+		"number": 2,
+		"title": "All pages should be accessible in 3 clicks",
+		"body": "Usability tests have long challenged the so called three-click rule or two tap rule. Contrary to popular belief, people don’t leave your site or app if they’re unable to find the desired information in 3 clicks or taps. In fact, the number of necessary clicks affects neither user satisfaction, nor success rate. That’s right; fewer clicks don’t make users happier and aren’t necessarily perceived as faster. What really counts here is ease of navigation, the constant scent of information along the user’s path. If you don’t make the user think about the clicks, they won’t mind having a few extra clicks.",
+		"link": "http://uxmyths.com/post/654026581/myth-all-pages-should-be-accessible-in-3-clicks"
+	},
+	{
+		"number": 1,
+		"title": "People read on the web",
+		"body": "People only read word-by-word on the web when they are really interested in the content. They usually skim the pages looking for highlighted keywords, meaningful headings, short paragraphs and scannable list. Since they’re in a hurry to find the very piece of information they’re looking for, they’ll skip what’s irrelevant for them. So don’t expect people to read content that seems neither easily scannable nor relevant for them, therefore long text blocks, unnecessary instructions, promotional writing and “smalltalk” should be avoided on the web.",
+		"link": "http://uxmyths.com/post/647473628/myth-people-read-on-the-web"
+	},
+	{
+		"number": 0,
+		"title": "If you read lists like this one, you don't need to do research",
+		"body": "",
+		"link": ""
+	}
+]

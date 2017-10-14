@@ -1,0 +1,28 @@
+{
+	"defaultSeverity": "error",
+	"extends": [
+		"tslint:recommended"
+	],
+	"jsRules": {},
+	"rules": {
+		"indent": [true, "tabs", 4],
+		"trailing-comma": true,
+		"comment-format": [true, "check-space", "check-uppercase"],
+		"eofline": true,
+		"ordered-imports": true,
+		"no-consecutive-blank-lines": [true, 2],
+		"no-trailing-whitespace": true,
+		"quotemark": [true, "single"],
+		"arrow-parens": true,
+		"prefer-const": true,
+		"no-unused-expression": false,
+		"member-access": true,
+		"semicolon": true,
+		"no-var-requires": false,
+		"no-console" : false,
+		"curly": true,
+		"whitespace": true,
+		"object-literal-sort-keys": false
+	},
+	"rulesDirectory": []
+}
