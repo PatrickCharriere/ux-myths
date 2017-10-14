@@ -13,9 +13,9 @@
 	"scripts": {
 		"prestart": "node dist/startMessage.js",
 		"start": "npm-run-all --parallel security-check start:watch lint:watch test:watch",
-		"start:watch": "nodemon dist/index.js",
+		"start:watch": "nodemon dist/**/*.js",
 
-		"test": "mocha --reporter progress --require ts-node/register '**/*.spec.ts'",
+		"test": "mocha --reporter progress --require ts-node/register '**/*.spec.ts' --exit",
 		"test:watch": "npm-watch test",
 
 		"security-check": "nsp check",
@@ -39,8 +39,6 @@
 		"chai": "^4.1.2",
 		"chai-http": "^3.0.0",
 		"child_process": "^1.0.2",
-		"gulp": "^3.9.1",
-		"gulp-typescript": "^3.2.2",
 		"mocha": "^4.0.0",
 		"npm-watch": "^0.3.0",
 		"ts-node": "^3.3.0",

@@ -7,7 +7,7 @@ export class DataManager {
 
 	public getAll(req: Request, res: Response, next: NextFunction) {
 		res.send(Data);
-		// Code: res.send('<pre>'+JSON.stringify(Data, null, 2)+'</pre>');
+		// res.send('<pre>'+JSON.stringify(Data, null, 2)+'</pre>');
 	}
 
 }

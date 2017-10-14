@@ -7,7 +7,7 @@
 	"rules": {
 		"indent": [true, "tabs", 4],
 		"trailing-comma": true,
-		"comment-format": [true, "check-space", "check-uppercase"],
+		"comment-format": [true, "check-space"],
 		"eofline": true,
 		"ordered-imports": true,
 		"no-consecutive-blank-lines": [true, 2],
