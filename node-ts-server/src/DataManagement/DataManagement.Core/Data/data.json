@@ -2,103 +2,103 @@
 	{
 		"number": 34,
 		"title": "Simple = minimal",
-		"body": "",
+		"body": "Simplicity is key to great and innovative product design. But simplicity is way often confused with minimalist style. In fact, simple looking, minimal product UIs often carry hidden complexity. Design decisions aiming for reduction can easily introduce more friction and cognitive load, leading to a more complex user experience. Icons without text labels are difficult to understand, non-standard gestures provide no obvious affordance, the minimalist hamburger menu was proven many times to perform poorly. We should all strive for simplicity, but we must make sure not to oversimplify for the sake of minimalism. As Albert Einstein put it, “Everything should be made as simple as possible, but not simpler.”",
 		"link": "http://uxmyths.com/post/115783813605/myth-34-simplicity-minimalism"
 	},
 	{
 		"number": 33,
 		"title": "Mobile users are distracted",
-		"body": "",
+		"body": "When thinking of mobile users, many have a stereotypical image of people on the go, people with the attention span of a goat and suffering from Mobile User Attention Deficit Disorder. But are mobile users distracted? Of course they are. But we are just as much distracted when sitting in front of our computers, watching TV or driving a car. Distractions are everywhere, it’s not a mobile-only phenomenon.",
 		"link": "http://uxmyths.com/post/99302792550/myth-33-mobile-users-are-distracted"
 	},
 	{
 		"number": 32,
 		"title": "Success happens overnight",
-		"body": "",
+		"body": "The Apple iPod instantly turned the MP3 player market upside down, right? Amazon changed the book selling business like a shot, didn’t it? Well, in fact they didn’t. No matter how it may seem from the outside. The fact is that it takes many years to be an overnight success even for internet entrepreneurs. Years of hard work, endurance, learning, experimenting, and many failures along the way. And sometimes pursuing a project almost everybody dislikes, like developing Gmail with its “crazy Javascript stuff”.",
 		"link": "http://uxmyths.com/post/4956005041/myth-32-success-happens-overnight"
 	},
 	{
 		"number": 31,
 		"title": "UX design is a step in a project",
-		"body": "",
+		"body": "Many think that user experience design is confined to sketching the interfaces. However, UX design is a much broader process that - ideally - starts at the strategy level and affects the whole lifecycle of a project or a business. UX design begins by learning about the business model, doing user research and understanding how a service can fit into the users’ lives in a meaningful way. Thus UX design has a crucial part in defining the business strategy, providing baselines for business decisions with such design deliverables as personas or user stories. A UX-driven process doesn’t end with the UIs either, it’s also about testing with people, supporting development, making ongoing adjustments even after the launch.",
 		"link": "http://uxmyths.com/post/3897350094/myth-31-ux-design-is-a-step-in-a-project"
 	},
 	{
 		"number": 30,
 		"title": "If you are an expert, you don’t need to test your design",
-		"body": "",
+		"body": "When it comes to evaluating the usability of an interface, user testing is often considered unnecessary if an expert has already reviewed it. Since people rarely behave the way you expect, an expert can find major usability problems, but usability tests always reveal surprising issues. Usability testing and expert reviews are both useful and tend to have different findings, therefore it’s usually recommended to combine the two in order to get the most comprehensive analysis of the interface.",
 		"link": "http://uxmyths.com/post/3086989914/myth-30-if-you-are-expert-you-dont-need-to-test-your-des"
 	},
 	{
 		"number": 29,
 		"title": "People are rational",
-		"body": "",
+		"body": "People don’t make purely rational decisions based on careful analysis of cost and expected utility, despite what classical economics taught us. Research findings confirm that our decisions are driven more by our emotions than logical and conscious thinking. However, our irrationality is predictable. Good designers, therefore, can learn about human decision making and go beyond usability to create products that effectively influence our behavior. Neuroscientist Jonah Lehrer argues that people are irrational because our logic is slow and our rational brain is still new and very limited in capacity. It is, as he puts it, “a computer operating system that was rushed to market.” The emotional brain, on the other hand, is really powerful and makes good decisions. That’s why most decisions are made on the emotional level.",
 		"link": "http://uxmyths.com/post/2607991907/myth-29-people-are-rational"
 	},
 	{
 		"number": 28,
 		"title": "White space is wasted space",
-		"body": "",
+		"body": "White space or “negative space”, referring to the empty space between and around elements of a design or page layout, is often overlooked and neglected. Although many may consider it a waste of valuable screen estate, white space is an essential element in web design and “is to be regarded as an active element, not a passive background,” Jan Tschichold wrote in 1930. Not only is white space responsible for readability and content prioritization, it also plays an important role in the visual layout and brand positioning.",
 		"link": "http://uxmyths.com/post/2059998441/myth-28-white-space-is-wasted-space"
 	},
 	{
 		"number": 27,
 		"title": "UX design is about usability",
-		"body": "",
+		"body": "Designing for the user experience has a lot more to it than making a product usable. Usability allows people to easily accomplish their goals. UX design covers more than that, it’s about giving people a delightful and meaningful experience. A good design is pleasurable, thoughtfully crafted, makes you happy, and gets you immersed. Think of games, they usually have these characteristics. Or think of the iPhone that makes even failures “more enjoyable than succeeding on a Blackberry”.",
 		"link": "http://uxmyths.com/post/1533970267/myth-27-ux-design-is-about-usability"
 	},
 	{
 		"number": 26,
 		"title": "Usability testing = focus groups",
-		"body": "",
+		"body": "When it comes to collecting feedback from users, usability tests and focus groups are often confused although their goals are completely different. Focus groups assess what users say: a number of people gather in order to discuss their feelings, attitudes and thoughts on a given topic to reveal their motivations and preferences. Usability testing, on the other hand, is about observing how people actually use a product, by assigning key tasks to users and analyzing their performance and experience.",
 		"link": "http://uxmyths.com/post/1319999199/myth-26-usability-testing-focus-groups"
 	},
 	{
 		"number": 25,
 		"title": "Aesthetics are not important if you have good usability",
-		"body": "",
+		"body": "There are usability practitioners who completely dismiss the importance of aesthetics, often citing unattractive but popular websites such as Craigslist. However, aesthetics do have a function. Attractive things work better. Studies show that emotions play an important role in the users’ experience. If a website has a pleasant visual design, users are more relaxed, tend to find the website more credible and easier to use. A positive first impression — usually based on looks rather than interaction — determines the value of the website on the user’s behalf. Aesthetics also tell a good many about your brand, product or service. They show that you care.",
 		"link": "http://uxmyths.com/post/1161244116/myth-25-aesthetics-are-not-important-if-you-have-good-us"
 	},
 	{
 		"number": 24,
 		"title": "People always use your product the way you imagined they would",
-		"body": "",
+		"body": "Even if a product was designed to fulfill specific and known user needs, customers don’t always use it the way and for the purpose the product was originally intended. In many cases, users don’t care or don’t understand how a product works, and once they find a way to use it, they’ll stick to it. Many people, for example, type URLs into the Google search bar instead of the browser’s address bar. You should, therefore, never take your design for granted and always collect feedback on how your product is actually used to reveal the real user needs and to get ideas of innovation.",
 		"link": "http://uxmyths.com/post/1048425031/myth-24-people-always-use-your-product-the-way-you-imagi"
 	},
 	{
 		"number": 23,
 		"title": "Choices should always be limited to 7+/-2",
-		"body": "",
+		"body": "Limiting the number of menu tabs or the number of items in a dropdown list to the George Miller’s magic number 7 is a false constraint. Miller’s original theory argues that people can keep no more than 7 (plus or minus 2) items in their short-term memory. On a webpage, however, the information is visually present, people don’t have to memorize anything and therefore can easily manage broader choices. For example, research shows that broad and shallow menu structures may even work better than deeper menus. Also, link-rich e-commerce homepages, like that of Amazon with 90+ product category links, are found to be more usable than homepages with only a few links.",
 		"link": "http://uxmyths.com/post/931925744/myth-23-choices-should-always-be-limited-to-seven"
 	},
 	{
 		"number": 22,
 		"title": "Usability testing is expensive",
-		"body": "",
+		"body": "Many organizations still believe usability testing is a luxury that requires an expensively equipped lab and takes weeks to conduct. In fact, usability tests can be both fast and relatively cheap. You don’t need expensive prototypes; low-tech paper prototype tests can also bring valuable results. You don’t need a lot of participants either, even 5 users can be enough to test for specific tasks, and the recruiting can also be done guerilla-style. For many projects, you can even use remote and unmoderated tests.",
 		"link": "http://uxmyths.com/post/831431504/myth-22-usability-testing-is-expensive"
 	},
 	{
 		"number": 21,
 		"title": "People can tell you what they want",
-		"body": "",
+		"body": "Many organizations still rely on asking people what changes they’d like to see in their website or service, neglecting historical research failures like the New Coke or the Aeron chair. When asking people, you have to be aware that people make confident but false predictions about their future behavior, especially when presented with a new and unfamiliar design. There’s a huge difference between imagining using something and actually using it. In addition, human preferences are rather unstable. That’s not to say you should quit listening to your customers. But make sure you know what to ask and how to interpret the answers.",
 		"link": "http://uxmyths.com/post/746610684/myth-21-people-can-tell-you-what-they-want"
 	},
 	{
 		"number": 20,
 		"title": "If it works for Amazon, it will work for you",
-		"body": "",
+		"body": "Although Amazon has features that are both excellent and well-proven, they won’t necessarily work on any e-commerce website. Let’s take their customer reviews for example. Target.com bought Amazon’s customer review software. Jared Spool demonstrates that, despite using the same exact software and interface, Target.com doesn’t receive any reviews at all: in the first month after Harry Potter and the Deathly Hallows came out, Amazon got 1 805 reviews, whereas Target received only 3 (both retailers sold about 2 million copies). It doesn’t mean that you shouldn’t copy the design of others - by all means do. But make sure you also understand why it worked for them and how it will work for your company and your users.",
 		"link": "http://uxmyths.com/post/718217318/myth-if-it-works-for-amazon-it-will-work-for-you"
 	},
 	{
 		"number": 19,
 		"title": "You don't need the content to design a website",
-		"body": "",
+		"body": "Many designers create wireframes and comps with “lorem ipsum” filler text. Using dummy text often results in an aesthetically pleasing but unrealistic design. What’s worse, it creates the illusion that content is secondary. The fact is that users come for the content, not the design. Content is by far the most important element in user interface design. A webpage with a simple structure but quality content performs much better on usability tests than a nice layout with subpar text.",
 		"link": "http://uxmyths.com/post/718187422/myth-you-dont-need-the-content-to-design-a-website"
 	},
 	{
 		"number": 18,
 		"title": "Flash is evil",
-		"body": "",
+		"body": "In the earlier years of the internet, many web designers preferred overusing Flash animations, ignoring users with slow internet connections or without Flash player. These early implementations often neglected basic usability principles, too, therefore the whole technology was criticized for being unusable and inaccessible. Flash technology later improved a lot: it became SEO friendly, got rich accessibility features and even supported the use of the browser’s back button. Most users used to have no problems with Flash itself, suffice to mention the popularity of online video sharing sites that used to only provide a Flash version of the video players. However, with the growing popularity of smart phones and tablets (most of which don’t support this technology at all), Flash is no longer an option for any user-friendly website or app.",
 		"link": "http://uxmyths.com/post/717781129/myth-18-flash-is-evil"
 	},
 	{
